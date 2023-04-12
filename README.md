@@ -1,1 +1,1 @@
-# redux-training-classic---RT---RTQ-
+# redux-training (classic - RT - RTQ)
